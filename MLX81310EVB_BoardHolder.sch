@@ -6108,6 +6108,7 @@ type RDH, grid 15 mm</description>
   DIGI-KEY -&gt; 335-1150-ND
 6. HEX STANDOFF M3X0.5 BRASS 22MM
   DIGI-KEY -&gt; R30-1002202-ND</text>
+<text x="22.86" y="157.48" size="1.778" layer="91">Label test 2</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
